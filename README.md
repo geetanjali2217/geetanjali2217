@@ -8,3 +8,6 @@
   <h2>Technology Stack <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" height='20px' width='20px'/></g-emoji></h2>
 <br>
 <h3>Programming Languages <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/1f468-1f4bb.png"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" height='20px' width='20px'/></g-emoji> :</h3>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
