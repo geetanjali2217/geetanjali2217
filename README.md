@@ -7,4 +7,4 @@
   <br>
   <h2>Technology Stack <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" height='20px' width='20px'/></g-emoji></h2>
 <br>
-<h3>Programming Languages <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" height='20px' width='20px'/></g-emoji> :</h3>
+<h3>Programming Languages <g-emoji fallback-src="https://github.githubassets.com/images/icons/emoji/1f468-1f4bb.png"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png" height='20px' width='20px'/></g-emoji> :</h3>
