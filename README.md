@@ -57,7 +57,7 @@
             width='20px' /></g-emoji> :</h3>
 <br>
 <p align="center">
-<a><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>&nbsp;&nbsp;
+<a><img src="https://img.shields.io/badge/github-%232671E5.svg?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
 <a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /></a>&nbsp;&nbsp;
 <a><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
 </p>
